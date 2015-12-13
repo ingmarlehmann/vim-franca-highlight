@@ -8,7 +8,7 @@ Add vim-franca-highlight plugin to ~/.vimrc
 
 ```vim
 " Franca highlighter  
-Plugin 'ingmarolsson/vim-franca-highlight'  
+Plugin 'ingmarlehmann/vim-franca-highlight'  
 ```
 
 Source your updated ~/.vimrc  
