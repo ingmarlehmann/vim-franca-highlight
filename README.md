@@ -1,6 +1,6 @@
-Franca syntax highlighter for *.fidl and *.fdepl files originating from the [Franca](https://github.com/franca/franca, "Franca") project but bundled in Vundle plugin format for convenience.  
+Franca syntax highlighter for *.fidl and *.fdepl files originating from the [Franca](https://github.com/franca/franca) project but bundled in Vundle plugin format for convenience.  
 
-To install this plugin, you need to install the [Vundle](https://github.com/VundleVlim/Vundle.vim, "Vundle") plugin manager.  
+To install this plugin, you need to install the [Vundle](https://github.com/VundleVlim/Vundle.vim) plugin manager.  
 
 Now that you have Vundle installed:  
 
