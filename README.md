@@ -12,7 +12,7 @@ Plugin 'ingmarolsson/vim-franca-highlight'
 ```
 
 2. Source your updated ~/.vimrc  
-``vim
+```vim
 :source %  
 ```
 
