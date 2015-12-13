@@ -4,19 +4,19 @@ To install this plugin, you need to install the [Vundle](https://github.com/Vund
 
 Now that you have Vundle installed:  
 
-1. Add vim-franca-highlight plugin to ~/.vimrc  
+Add vim-franca-highlight plugin to ~/.vimrc  
 
 ```vim
 " Franca highlighter  
 Plugin 'ingmarolsson/vim-franca-highlight'  
 ```
 
-2. Source your updated ~/.vimrc  
+Source your updated ~/.vimrc  
 ```vim
 :source %  
 ```
 
-3. Install the new 'vim-franca-highlight' plugin.  
+Install the new 'vim-franca-highlight' plugin.  
 ```vim
 :PluginInstall  
 ```
