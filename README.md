@@ -1,22 +1,22 @@
-Franca syntax highlighter for *.fidl and *.fdepl files originating from the [Franca](https://github.com/franca/franca, "Franca") project but bundled in Vundle plugin format for convenience.
+Franca syntax highlighter for *.fidl and *.fdepl files originating from the [Franca](https://github.com/franca/franca, "Franca") project but bundled in Vundle plugin format for convenience.  
 
-To install this plugin, you need to install the [Vundle](https://github.com/VundleVlim/Vundle.vim, "Vundle") plugin manager.
+To install this plugin, you need to install the [Vundle](https://github.com/VundleVlim/Vundle.vim, "Vundle") plugin manager.  
 
-Now that you have Vundle installed:
+Now that you have Vundle installed:  
 
-1. Add vim-franca-highlight plugin to ~/.vimrc
+1. Add vim-franca-highlight plugin to ~/.vimrc  
 
 <code>
-" Franca highlighter
-Plugin 'ingmarolsson/vim-franca-highlight'
+" Franca highlighter  
+Plugin 'ingmarolsson/vim-franca-highlight'  
 </code>
 
-2. Source your updated ~/.vimrc
+2. Source your updated ~/.vimrc  
 <code>
-:source %
+:source %  
 </code>
 
-3. Install the new 'vim-franca-highlight' plugin.
+3. Install the new 'vim-franca-highlight' plugin.  
 <code>
-:PluginInstall
+:PluginInstall  
 <code>
