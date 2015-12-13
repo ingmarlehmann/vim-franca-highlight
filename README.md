@@ -8,7 +8,6 @@ Now that you have Vundle installed:
 
 <code>
 " Franca highlighter   
-
 Plugin 'ingmarolsson/vim-franca-highlight'  
 </code>
 
