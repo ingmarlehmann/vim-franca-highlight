@@ -7,8 +7,8 @@ Now that you have Vundle installed:
 1. Add vim-franca-highlight plugin to ~/.vimrc  
 
 <code>
-" Franca highlighter   
-Plugin 'ingmarolsson/vim-franca-highlight'  
+    " Franca highlighter   
+    Plugin 'ingmarolsson/vim-franca-highlight'  
 </code>
 
 2. Source your updated ~/.vimrc  
