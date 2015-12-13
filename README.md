@@ -2,7 +2,7 @@ Franca syntax highlighter for *.fidl and *.fdepl files originating from the [Fra
 
 To install this plugin, you need to install the [Vundle](https://github.com/VundleVlim/Vundle.vim) plugin manager.  
 
-Now that you have Vundle installed:  
+After you have installed Vundle:  
 
 Add vim-franca-highlight plugin to ~/.vimrc  
 
